@@ -2,6 +2,12 @@
 ---
 ---
 
+<div style="width: 100%;">
+  <a href="https://github.com/akscent/scpool/blob/main/images/banner.svg">
+    <img src="banner.svg" style="width: 100%;" alt="Click to see the source">
+  </a>
+</div>
+
 [![Banner pool](banner.svg)](https://github.com/akscent/scpool/blob/main/images/banner.svg)
 
 [![Basic hello](hello-basic.svg)](https://github.com/nikolalsvk/custom-readme-styles/blame/main/hello-basic.svg)
