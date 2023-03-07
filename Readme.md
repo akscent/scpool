@@ -2,7 +2,7 @@
 ---
 ---
 
-![Banner pool](banner.svg)](https://raw.githubusercontent.com/akscent/scpool/e4605d14dc716949b2cbfd328528011bb8970329/images/banner.svg)
+![](banner.svg)](https://raw.githubusercontent.com/akscent/scpool/e4605d14dc716949b2cbfd328528011bb8970329/images/banner.svg)
 
 ![Basic hello](hello-basic.svg)](https://github.com/nikolalsvk/custom-readme-styles/blame/main/hello-basic.svg)
 
