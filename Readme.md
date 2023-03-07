@@ -4,6 +4,8 @@
 
 [![Banner pool](banner.svg)](https://github.com/akscent/scpool/blob/main/images/banner.svg)
 
+[![Basic hello](hello-basic.svg)](https://github.com/nikolalsvk/custom-readme-styles/blame/main/hello-basic.svg)
+
 Я принимал участие в бассейне (~~читать как отбор - интенсив~~) в [**Школе 21**](https://21-school.ru/), которая является j,образовательно-благотворительным проектом [**Сбера**](https://sber.ru/). Нет, это не занятия по плаванию. Школа 21 - это бесплатная школа программирования, в которой студенты учатся на практике, работая над различными проектами на языке Си (в основном).
 
 ## + Обучение
