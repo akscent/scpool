@@ -1,0 +1,24 @@
+<svg fill="none" width="600" height="100">
+  <foreignObject width="100%" height="100%">
+    <div xmlns="http://www.w3.org/1999/xhtml">
+      <style>
+
+        .container {
+
+          width: 100%;
+          height: 100px;
+
+          display: flex;
+          justify-content: left;
+          align-items: left;
+          color: #861be3;
+
+          font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
+        }
+      </style>
+      <div class="container">
+        <h1>Peer-to-Peer</h1>
+      </div>
+    </div>
+  </foreignObject>
+</svg>
