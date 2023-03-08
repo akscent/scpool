@@ -13,7 +13,7 @@
 
 1. [Командный проект 1. Простая пошаговая игра Понг в Терминале.](https://github.com/akscent/scpool/tree/main/Pong)
 2. [Командный проект 2. Интерактивная игра Жизнь в Терминале с 5 инициирующими состояниями.](https://github.com/akscent/scpool/tree/main/game_of_life)
-3. [командный проект 3. Перевод математического выражения в прямую Польскую нотацию (PN) - ~недоделана~. ](https://github.com/akscent/scpool/tree/main/pollish_notation)
+3. [Командный проект 3. Перевод математического выражения в прямую Польскую нотацию (PN) - ~недоделана~. ](https://github.com/akscent/scpool/tree/main/pollish_notation)
 4. [День 1. Он сложный самый. Знакомство с bash](https://github.com/akscent/scpool/tree/main/bash)
 5. [День 2. Bash скрипты](https://github.com/akscent/scpool/tree/main/vim-and-gitlab)
 6. [День 3. Первое знакомство с Си](https://github.com/akscent/scpool/tree/main/first_c)
